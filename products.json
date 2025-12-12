@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": 1,
+    "title": "Men's T-Shirt",
+    "price": 499,
+    "category": "men",
+    "image": "https://example.com/tshirt.png",
+    "description": "High-quality cotton T-shirt."
+  },
+  {
+    "id": 2,
+    "title": "Women's Kurti",
+    "price": 899,
+    "category": "women",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  }
+]
