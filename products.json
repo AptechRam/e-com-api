@@ -90,7 +90,7 @@
   {
     "id": 12,
     "title": "JBL Flip 5 with 12Hr Playtime",
-    "price": 42899,
+    "price": 6899,
     "category": "speakers",
     "image": "https://example.com/kurti.png",
     "description": "JBL Flip 5 with 12Hr Playtime, IPX7 Waterproof, Partyboost Portable 20 W Bluetooth Speaker  (Multicolor, Stereo Channel)"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "title": "JBL Go Essential with Rich Bass",
-    "price": 42899,
+    "price": 4299,
     "category": "speakers",
     "image": "https://example.com/kurti.png",
     "description": "JBL Go Essential with Rich Bass, 5 Hrs Playtime, IPX7 Waterproof, Ultra Portable 3.1 W Bluetooth Speaker  (Blue, Mono Channel)"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "title": "JBL Flip Essential 2",
-    "price": 42899,
+    "price": 4299,
     "category": "speakers",
     "image": "https://example.com/kurti.png",
     "description": "JBL Flip Essential 2, Deep Bass, 10Hrs Playtime, IPX7 Waterproof, Portable 20 W Bluetooth Speaker  (Black, Mono Channel)"
